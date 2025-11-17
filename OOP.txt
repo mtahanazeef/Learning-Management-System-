@@ -1,0 +1,11 @@
+Structures in C++
+C++ support all the features as defined in C, but C++ has some expanded capabilities  such as data hiding, Inheritance.
+In C++ a structure can have both function and variable as member(declaration)
+It also declare some members as private so that they cannot accessed directly by external function.
+C++ incorporates all these extension in another user defined type known as Class.
+
+What is Class in C++
+A class is a way to bind data and its associated function together.
+It allows the data and function to be hidden, if necessary.
+When defining class we are creating new abstract data type that can be treated as other built-in data type
+

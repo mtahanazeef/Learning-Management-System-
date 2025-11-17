@@ -1,0 +1,11 @@
+Question 1.Student Record Management System
+Develop a system to manage student records including their details and scores across multiple subjects.
+Requirements:
+oUse a structure to define student details (e.g., name, rollNumber, age).
+oUse arrays to store scores for multiple subjects.
+oUse a class to manage the student records.
+oImplement pointers to dynamically allocate memory for storing student scores and accessing them efficiently.
+Tasks:
+oCreate a structure StudentDetails to hold student information.
+oIn the Student class, create an array of pointers that dynamically stores and manages student scores for n subjects.
+oCreate methods to input and display student details, calculate the average score, and find the highest and lowest scores.
